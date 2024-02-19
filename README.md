@@ -5,6 +5,7 @@ Oi, sou Izabelle Cruz! 💕
 • 💻 - Acredito que o mundo está em constante mudança e que a tecnologia é o caminho para se entender essas mudanças.
 
 Conhecimentos:
+
 <i class="devicon-python-plain-wordmark colored"></i>
           
           
