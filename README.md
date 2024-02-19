@@ -5,8 +5,7 @@ Oi, sou Izabelle Cruz! 💕
 • 💻 - Acredito que o mundo está em constante mudança e que a tecnologia é o caminho para se entender essas mudanças.
 
 Conhecimentos:
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<i class="devicon-azure-plain-wordmark"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
 
