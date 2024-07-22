@@ -13,7 +13,7 @@ Oi, sou Izabelle Cruz! 💕
 
 ## Estou aprendendo: 
 
-- Microsoft PowerBI
+<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
           
 
 ## Contatos: 
