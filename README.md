@@ -13,8 +13,7 @@ Oi, sou Izabelle Cruz! 💕
 
 ## Estou aprendendo: 
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>              
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"  width="40" height="40" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"  width="40" height="40" />
           
           
 
