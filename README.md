@@ -6,6 +6,14 @@
 📊 Experiência em manipulação de dados com Pandas/NumPy, visualização com Power BI e geração automatizada de apresentações (PPTX).  
 🚀 Sempre aprendendo sobre arquitetura de dados, pipelines modernos e boas práticas em projetos com Git.
 
+# Oi, sou Izabelle Cruz! 💕
+
+👩‍💻 Engenheira de Dados em formação, apaixonada por transformar dados em soluções inteligentes.  
+🧠 Atuo com Inteligência Artificial, engenharia de dados e automações em Python.  
+☁️ Trabalho com plataformas cloud como Azure, Databricks, Snowflake e CosmosDB.  
+📊 Experiência em manipulação de dados com Pandas/NumPy, visualização com Power BI e geração automatizada de apresentações (PPTX).  
+🚀 Sempre aprendendo sobre arquitetura de dados, pipelines modernos e boas práticas em projetos com Git.
+
 ---
 
 # Hey, I'm Izabelle Cruz! 💕
@@ -20,35 +28,10 @@
 
 ## 🛠️ Conhecimentos / Knowledge
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"  width="40" height="40" >
-<img width="40" height="40" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"  width="40" height="40" /> <img width="40" height="40" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
 
 ---
 
 ## 🚧 Estou aprendendo / I am learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" >
-
----
-
-## 📫 Contatos / Contacts
-
-<a href="https://www.instagram.com/izziecristinne/" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<> 
-<a href="mailto:izabelle.cscruz@gmail.com" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<> 
-<a href="https://www.linkedin.com/in/izabelle-cristinne/" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img
