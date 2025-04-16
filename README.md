@@ -34,5 +34,5 @@
 
 ## 🚧 Estou aprendendo / I am learning
 
-<img src="https://img.icons8.com/color/48/snowflake.png" width="40" height="40" alt="Snowflake"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" height="40" /> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-databricks-an-american-enterprise-software-company-logo-color-tal-revivo.png" width="40" height="40" alt="Databricks"/>
+<img src="https://img.icons8.com/color/48/snowflake.png" width="40" height="40" alt="Snowflake"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Databricks_Logo.png" width="40" height="40" alt="Databricks"/>
 
