@@ -6,14 +6,6 @@
 📊 Experiência em manipulação de dados com Pandas/NumPy, visualização com Power BI e geração automatizada de apresentações (PPTX).  
 🚀 Sempre aprendendo sobre arquitetura de dados, pipelines modernos e boas práticas em projetos com Git.
 
-# Oi, sou Izabelle Cruz! 💕
-
-👩‍💻 Engenheira de Dados em formação, apaixonada por transformar dados em soluções inteligentes.  
-🧠 Atuo com Inteligência Artificial, engenharia de dados e automações em Python.  
-☁️ Trabalho com plataformas cloud como Azure, Databricks, Snowflake e CosmosDB.  
-📊 Experiência em manipulação de dados com Pandas/NumPy, visualização com Power BI e geração automatizada de apresentações (PPTX).  
-🚀 Sempre aprendendo sobre arquitetura de dados, pipelines modernos e boas práticas em projetos com Git.
-
 ---
 
 # Hey, I'm Izabelle Cruz! 💕
